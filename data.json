@@ -1,8 +1,8 @@
 {
   "tableData": [
     {
-      "name": "Дрипы AF Кения Кириньяга",
-      "weight": "8 шт",
+      "name": "Дрипы AF Кения Кириньяга (8 шт)",
+      "weight": "-",
       "price": "33.50",
       "image": null
     },
@@ -133,5 +133,5 @@
       "image": null
     }
   ],
-  "lastUpdateTime": "17.10.2025, 15:11:17"
+  "lastUpdateTime": "17.10.2025, 15:12:00"
 }

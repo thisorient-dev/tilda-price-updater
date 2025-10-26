@@ -13,6 +13,12 @@
       "price": "39.00"
     },
     {
+      "name": "Фильтр Кения Гатамбоя alcohol-free",
+      "weight": "200 г",
+      "count": "1",
+      "price": "26.50"
+    },
+    {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
       "count": "12",
@@ -109,5 +115,5 @@
       "price": "90.00"
     }
   ],
-  "lastUpdateTime": "26.10.2025, 16:29:30"
+  "lastUpdateTime": "26.10.2025, 16:40:05"
 }

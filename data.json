@@ -1,12 +1,6 @@
 {
   "tableData": [
     {
-      "name": "Фильтр Эфиопия Ненсебо alcohol-free",
-      "weight": "200 г",
-      "count": "1",
-      "price": "26.50"
-    },
-    {
       "name": "Фильтр Кения Гитуту",
       "weight": "250 г",
       "count": "2",
@@ -79,5 +73,5 @@
       "price": "32.50"
     }
   ],
-  "lastUpdateTime": "14.11.2025, 10:25:08"
+  "lastUpdateTime": "14.11.2025, 13:06:54"
 }

@@ -1,12 +1,6 @@
 {
   "tableData": [
     {
-      "name": "Дрипы Кения Кириньяга alcohol-free",
-      "weight": "8 шт.",
-      "count": "20",
-      "price": "33.50"
-    },
-    {
       "name": "Фильтр Кения Гатомбоя alcohol-free",
       "weight": "200 г",
       "count": "1",
@@ -103,5 +97,5 @@
       "price": "32.50"
     }
   ],
-  "lastUpdateTime": "13.01.2026, 19:35:11"
+  "lastUpdateTime": "14.01.2026, 08:45:53"
 }

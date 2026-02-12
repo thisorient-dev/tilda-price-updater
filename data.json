@@ -1,12 +1,6 @@
 {
   "tableData": [
     {
-      "name": "Дрипы Кения Кириньяга alcohol-free",
-      "weight": "8 шт.",
-      "count": "4",
-      "price": "33.50"
-    },
-    {
       "name": "Фильтр Гватемала Гейша",
       "weight": "250 г",
       "count": "9",
@@ -91,5 +85,5 @@
       "price": "76.00"
     }
   ],
-  "lastUpdateTime": "12.02.2026, 17:36:45"
+  "lastUpdateTime": "12.02.2026, 19:03:21"
 }

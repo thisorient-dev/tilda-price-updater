@@ -2,26 +2,26 @@
   "tableData": [
     {
       "name": "Дрипы Кения Кириньяга alcohol-free",
-      "weight": "13 шт.",
-      "count": "6 шт",
+      "weight": "8 шт.",
+      "count": "8",
       "price": "33.50"
     },
     {
       "name": "Фильтр Кения Гатомбоя alcohol-free",
       "weight": "200 г",
-      "count": "2 шт.",
+      "count": "1",
       "price": "30.00"
     },
     {
       "name": "Фильтр Бурунди Бурасира 1752",
       "weight": "250 г",
-      "count": "6 шт.",
+      "count": "6",
       "price": "36.00"
     },
     {
       "name": "Фильтр Бурунди Бурасира 1753",
       "weight": "250 г",
-      "count": "7 шт.",
+      "count": "7",
       "price": "36.00"
     },
     {
@@ -163,5 +163,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "27.03.2026, 15:55:04"
+  "lastUpdateTime": "27.03.2026, 16:21:00"
 }

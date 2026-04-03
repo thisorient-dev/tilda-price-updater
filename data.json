@@ -1,9 +1,21 @@
 {
   "tableData": [
     {
+      "name": "Дрипы Кения Кириньяга alcohol-free",
+      "weight": "8 шт.",
+      "count": "18",
+      "price": "33.50"
+    },
+    {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
       "count": "2",
+      "price": "30.00"
+    },
+    {
+      "name": "Фильтр Колумбия Санта Роса alcohol-free",
+      "weight": "200 г",
+      "count": "4",
       "price": "30.00"
     },
     {
@@ -187,5 +199,5 @@
       "price": "32.50"
     }
   ],
-  "lastUpdateTime": "03.04.2026, 09:37:54"
+  "lastUpdateTime": "03.04.2026, 09:51:10"
 }

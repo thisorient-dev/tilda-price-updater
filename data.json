@@ -7,6 +7,30 @@
       "price": "33.50"
     },
     {
+      "name": "Фильтр Кения Гатомбоя alcohol-free",
+      "weight": "200 г",
+      "count": "15",
+      "price": "30.00"
+    },
+    {
+      "name": "Фильтр Кения Гатомбоя alcohol-free",
+      "weight": "1 кг",
+      "count": "1",
+      "price": "95.00"
+    },
+    {
+      "name": "Фильтр Колумбия Санта Роса alcohol-free",
+      "weight": "200 г",
+      "count": "12",
+      "price": "30.00"
+    },
+    {
+      "name": "Фильтр Эфиопия Ненсебо alcohol-free",
+      "weight": "200 г",
+      "count": "17",
+      "price": "30.00"
+    },
+    {
       "name": "Фильтр Бурунди Бурасира 1752",
       "weight": "250 г",
       "count": "5",
@@ -175,5 +199,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "08.04.2026, 11:26:34"
+  "lastUpdateTime": "08.04.2026, 12:55:31"
 }

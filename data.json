@@ -21,7 +21,7 @@
     {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "16",
+      "count": "14",
       "price": "30.00"
     },
     {
@@ -93,13 +93,13 @@
     {
       "name": "Эспрессо Кения Гатомбоя alcohol-free",
       "weight": "200 г",
-      "count": "5",
+      "count": "3",
       "price": "30.00"
     },
     {
       "name": "Эспрессо Колумбия Санта Роса alcohol-free",
       "weight": "200 г",
-      "count": "4",
+      "count": "3",
       "price": "30.00"
     },
     {
@@ -181,5 +181,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "13.04.2026, 09:01:39"
+  "lastUpdateTime": "13.04.2026, 09:07:13"
 }

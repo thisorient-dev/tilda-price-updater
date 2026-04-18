@@ -7,6 +7,12 @@
       "price": "33.50"
     },
     {
+      "name": "Дрипы Колумбия Санта Роса alcohol-free",
+      "weight": "8 шт.",
+      "count": "14",
+      "price": "33.50"
+    },
+    {
       "name": "Фильтр Кения Гатомбоя alcohol-free",
       "weight": "200 г",
       "count": "5",
@@ -211,5 +217,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "18.04.2026, 08:59:21"
+  "lastUpdateTime": "18.04.2026, 11:04:51"
 }

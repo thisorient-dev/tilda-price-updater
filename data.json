@@ -3,7 +3,7 @@
     {
       "name": "Дрипы Кения Кириньяга alcohol-free",
       "weight": "8 шт.",
-      "count": "10",
+      "count": "9",
       "price": "33.50"
     },
     {
@@ -15,7 +15,7 @@
     {
       "name": "Дрипы Эфиопия Ненсебо alcohol-free",
       "weight": "8 шт.",
-      "count": "10",
+      "count": "9",
       "price": "33.50"
     },
     {
@@ -205,5 +205,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "05.05.2026, 14:26:03"
+  "lastUpdateTime": "05.05.2026, 15:23:27"
 }

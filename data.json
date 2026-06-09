@@ -3,13 +3,13 @@
     {
       "name": "Дрипы Кения Кириньяга alcohol-free",
       "weight": "8 шт.",
-      "count": "21",
+      "count": "20",
       "price": "33.50"
     },
     {
       "name": "Дрипы Колумбия Санта Роса alcohol-free",
       "weight": "8 шт.",
-      "count": "7",
+      "count": "6",
       "price": "33.50"
     },
     {
@@ -247,5 +247,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "09.06.2026, 16:07:52"
+  "lastUpdateTime": "09.06.2026, 16:49:29"
 }

@@ -9,7 +9,7 @@
     {
       "name": "Дрипы Эфиопия Ненсебо alcohol-free",
       "weight": "8 шт.",
-      "count": "12",
+      "count": "9",
       "price": "33.50"
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "22",
+      "count": "21",
       "price": "30.00"
     },
     {
@@ -223,5 +223,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "17.06.2026, 12:54:34"
+  "lastUpdateTime": "17.06.2026, 13:54:03"
 }

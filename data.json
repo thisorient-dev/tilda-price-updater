@@ -20,20 +20,20 @@
     },
     {
       "name": "Фильтр Кения Кириньяга alcohol-free",
-      "weight": "10",
-      "count": "200 г",
+      "weight": "200 г",
+      "count": "10",
       "price": "30.00"
     },
     {
       "name": "Фильтр Колумбия Санта Роса alcohol-free",
-      "weight": "13",
-      "count": "200 г",
+      "weight": "200 г",
+      "count": "13",
       "price": "30.00"
     },
     {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
-      "weight": "21",
-      "count": "200 г",
+      "weight": "200 г",
+      "count": "21",
       "price": "30.00"
     },
     {
@@ -223,5 +223,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "18.06.2026, 15:42:00"
+  "lastUpdateTime": "18.06.2026, 15:48:00"
 }

@@ -19,15 +19,15 @@
       "price": "33.50"
     },
     {
-      "name": "Фильтр Колумбия Санта Роса alcohol-free",
+      "name": "Фильтр Кения Гатамбоя alcohol-free",
       "weight": "200 г",
-      "count": "2",
+      "count": "9",
       "price": "30.00"
     },
     {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "21",
+      "count": "30",
       "price": "30.00"
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "Фильтр Колумбия Хосве Валенсия",
       "weight": "250 г",
-      "count": "3",
+      "count": "7",
       "price": "53.00"
     },
     {
@@ -117,19 +117,19 @@
     {
       "name": "Эспрессо Кения Гатомбоя alcohol-free",
       "weight": "200 г",
-      "count": "6",
+      "count": "11",
       "price": "30.00"
     },
     {
       "name": "Эспрессо Колумбия Санта Роса alcohol-free",
       "weight": "200 г",
-      "count": "7",
+      "count": "12",
       "price": "30.00"
     },
     {
       "name": "Эспрессо Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "7",
+      "count": "10",
       "price": "30.00"
     },
     {
@@ -217,5 +217,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "22.06.2026, 10:59:37"
+  "lastUpdateTime": "22.06.2026, 12:18:37"
 }

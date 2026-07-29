@@ -3,13 +3,13 @@
     {
       "name": "Дрипы Колумбия Санта Роса alcohol-free",
       "weight": "8 шт.",
-      "count": "12",
+      "count": "10",
       "price": "33.50"
     },
     {
       "name": "Дрипы Эфиопия Ненсебо alcohol-free",
       "weight": "8 шт.",
-      "count": "20",
+      "count": "19",
       "price": "33.50"
     },
     {
@@ -229,5 +229,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "29.07.2026, 14:56:28"
+  "lastUpdateTime": "29.07.2026, 16:07:15"
 }

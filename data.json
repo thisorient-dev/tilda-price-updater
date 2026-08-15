@@ -1,12 +1,6 @@
 {
   "tableData": [
     {
-      "name": "Дрипы Эфиопия Ненсебо alcohol-free",
-      "weight": "8 шт.",
-      "count": "1",
-      "price": "33.50"
-    },
-    {
       "name": "Фильтр Кения Гатомбоя alcohol-free",
       "weight": "200 г",
       "count": "11",
@@ -229,5 +223,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "15.08.2026, 10:08:17"
+  "lastUpdateTime": "15.08.2026, 10:23:49"
 }

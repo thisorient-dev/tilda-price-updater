@@ -9,13 +9,13 @@
     {
       "name": "Фильтр Колумбия Санта Роса alcohol-free",
       "weight": "200 г",
-      "count": "10",
+      "count": "9",
       "price": "30.00"
     },
     {
       "name": "Фильтр Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "12",
+      "count": "11",
       "price": "30.00"
     },
     {
@@ -235,5 +235,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "05.09.2026, 10:41:20"
+  "lastUpdateTime": "05.09.2026, 10:54:32"
 }

@@ -141,13 +141,13 @@
     {
       "name": "Эспрессо Кения Гатомбоя alcohol-free",
       "weight": "200 г",
-      "count": "4",
+      "count": "6",
       "price": "30.00"
     },
     {
       "name": "Эспрессо Колумбия Санта Роса alcohol-free",
       "weight": "200 г",
-      "count": "3",
+      "count": "2",
       "price": "30.00"
     },
     {
@@ -223,5 +223,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "10.11.2026, 15:15:51"
+  "lastUpdateTime": "10.11.2026, 15:16:39"
 }

@@ -169,15 +169,15 @@
       "price": "30.00"
     },
     {
-      "name": "Эспрессо Эфиопия Ненсебо alcohol-free",
+      "name": "Эспрессо Колумбия Санта Роса alcohol-free",
       "weight": "200 г",
-      "count": "2",
+      "count": "0",
       "price": "30.00"
     },
     {
-      "name": "Эспрессо Колумбия Санта Роса alcohol-free",
+      "name": "Эспрессо Эфиопия Ненсебо alcohol-free",
       "weight": "200 г",
-      "count": "1",
+      "count": "2",
       "price": "30.00"
     },
     {
@@ -265,5 +265,5 @@
       "price": "89.50"
     }
   ],
-  "lastUpdateTime": "28.11.2026, 18:01:57"
+  "lastUpdateTime": "28.11.2026, 19:02:00"
 }
